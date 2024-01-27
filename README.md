@@ -1,5 +1,10 @@
-# Superposition 
-This report discuss about the superposition using python 
+# Superpixel 
+Superpixel Methods in Computer Vision using Python
+Image of superpixel segmentation of an imageOpens in a new window
+www.researchgate.net
+superpixel segmentation of an image
+
+Superpixel methods are a type of image segmentation technique that groups pixels into small, homogeneous regions called superpixels. These regions are typically more regular in shape and size than the individual pixels, which can make them easier to process and analyze. Superpixel methods can be used for a variety of tasks in computer vision, 
 
 ## Code
 ```python
