@@ -20,4 +20,4 @@ segmented_image = mark_boundaries(image, segments)
 imshow(segmented_image)
 ```
 ## result
-<img src='result.png' />
+<img src='result.png' align='center' />
